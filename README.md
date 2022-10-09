@@ -6,6 +6,7 @@ My personal portfolio website that displays my contacts and my projects.
 
 Here's a walkthrough of implemented user stories:
 
-https://giphy.com/embed/jkvzLqfrfIwBDYoa0T
+### App Walkthrough GIF
+<img src="http://g.recordit.co/l6dEtjCKFw.gif" width=250><br>
 
 
